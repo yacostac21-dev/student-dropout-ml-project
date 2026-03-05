@@ -1,30 +1,40 @@
-# student-dropout-ml-project
-Predicción del Abandono Académico con Machine Learning
+# Análisis de Datos con Python para Evaluación de Indicadores Educativos
 
-Este proyecto implementa un modelo de Machine Learning para predecir el estado académico de estudiantes universitarios utilizando variables académicas, personales y socioeconómicas.
+#Descripción del proyecto
+Este proyecto presenta un análisis exploratorio de datos utilizando Python en Google Colab. El objetivo es demostrar habilidades en manipulación, limpieza y visualización de datos mediante herramientas de ciencia de datos como Pandas, NumPy y Matplotlib. El análisis se enfoca en la interpretación de indicadores y la generación de visualizaciones que faciliten la comprensión de la información.
+#Objetivo del proyecto
+El objetivo principal de este proyecto es aplicar técnicas básicas de análisis de datos para identificar patrones y tendencias dentro de un conjunto de datos, demostrando competencias en programación, análisis estadístico y visualización de información.
+## Herramientas utilizadas
 
-Tecnologías utilizadas
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+## Estructura del repositorio
 
-Python
+data.cvs  
+Contiene los archivos de datos utilizados para el análisis.
 
-Pandas
+Student_Dropout_Prediction.ipynb
+Notebook de Google Colab con el análisis y visualización de datos.
 
-Scikit-learn
+informe.pdf
+Documento con la explicación del proceso y resultados obtenidos.
 
-Matplotlib
+#Resultados
+Durante el análisis se generaron diferentes gráficos que permiten visualizar 
+tendencias en los datos, incluyendo gráficos de barras.
 
-Google Colab
+## Cómo ejecutar el proyecto
 
-Objetivo
+1. Abrir el archivo en Google Colab
+2. Cargar el dataset
+3. Ejecutar las celdas del notebook para reproducir el análisis
 
-Analizar patrones en los datos académicos para clasificar estudiantes en tres categorías:
+## Autor
 
-Graduate
+Yimari Acosta Castro
+Estudiante de Ingenieria de Sistemas
 
-Dropout
-
-Enrolled
-
-Resultados
-
-El modelo fue entrenado utilizando un dataset educativo y evaluado mediante métricas de clasificación y matriz de confusión.
