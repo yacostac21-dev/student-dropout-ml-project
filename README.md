@@ -5,7 +5,7 @@ Este proyecto presenta un análisis exploratorio de datos utilizando Python en G
 #Objetivo del proyecto
 El objetivo principal de este proyecto es aplicar técnicas básicas de análisis de datos para identificar patrones y tendencias dentro de un conjunto de datos, demostrando competencias en programación, análisis estadístico y visualización de información.
 
-## Herramientas utilizadas
+## Herramientas utilizadas 
 
 - Python
 - Google Colab
