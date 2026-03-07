@@ -1,5 +1,5 @@
 # Análisis de Datos con Python para Evaluación de Indicadores Educativos
-
+ 
 # Descripción del proyecto
 Este proyecto presenta un análisis exploratorio de datos utilizando Python en Google Colab. El objetivo es demostrar habilidades en manipulación, limpieza y visualización de datos mediante herramientas de ciencia de datos como Pandas, NumPy y Matplotlib. El análisis se enfoca en la interpretación de indicadores y la generación de visualizaciones que faciliten la comprensión de la información.
 #Objetivo del proyecto
